@@ -1,8 +1,1 @@
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-	cout << "Hello World" << endl;
-}
+VimCrypt~01!4Ê¶8i¥Ù{Ž4'û7AQ²·Nr×gôþÆ­B‡Ì¶¶â„¯“ŽRÊñ»âø!ý)ýžäçÀ\Z7‰·ª6äð>×Î4™;z»¯ž^?æMij5e_„JÃWè `ÌIk©ç]HÞ¼>ó¥ç½Q®~*Ù\\Í
